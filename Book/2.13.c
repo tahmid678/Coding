@@ -26,8 +26,6 @@ int main(){
     printf("Address of s[8]: %p\n",&s[0+8]);
     printf("Content of s[9]: %c\n",s[0+9]);
     printf("Address of s[9]: %p\n",&s[0+9]);
-    printf("Content of s[10]: %d\n",s[0+10]);
-    printf("Address of s[10]: %p\n",&s[0+10]);
 
     return 0;
 }
